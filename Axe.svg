@@ -20,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,7 +45,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g8" />
+     inkscape:current-layer="g34" />
   <g
      id="g34"
      transform="translate(87.887324,-4.5070423)"
@@ -53,9 +53,9 @@
     <g
        id="g8"
        style="stroke-linecap:round;stroke-linejoin:round"
-       transform="matrix(1.020761,-0.43669951,0.38500392,1.1279554,78.03397,-29.328764)"
+       transform="matrix(1.020761,0.43669951,0.38500392,-1.1279554,78.03397,498.58502)"
        inkscape:transform-center-x="-3.1527988"
-       inkscape:transform-center-y="82.624062">
+       inkscape:transform-center-y="-82.62406">
       <path
          d="m -98.366757,41.702733 14.833,-10.616 c 0.94978,-0.67975 1.9413,-0.9101 2.223,-0.51642 L 270.55924,522.23031 c 0.28177,0.39365 -0.25613,1.2579 -1.206,1.9376 l -14.833,10.616 c -0.94977,0.67975 -1.9412,0.9101 -2.223,0.51642 L -99.572757,43.640333 c -0.28172,-0.39368 0.25606,-1.2579 1.2059,-1.9376 z"
          id="path6"
@@ -65,7 +65,7 @@
     <g
        id="g32"
        style="stroke-width:0"
-       transform="matrix(0.76577239,-0.30314312,0.27616884,0.84056782,-98.856333,100.99363)">
+       transform="matrix(0.76577239,0.30314312,0.27616884,-0.84056782,-98.856333,368.26262)">
       <path
          d="M 216.87,123.83 C 167.289,166.051 170.441,224.15 173.774,282.3 71.204,226.155 13.914,145.98 1.894,41.76 48.101,75.337 99.913,90.624 167.244,55.255"
          id="path10"
